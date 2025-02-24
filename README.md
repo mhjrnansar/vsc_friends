@@ -1,1 +1,1 @@
-This is a CS50 code. You can run it using Visual Studio Code (VS Code).
+This is a CS50 code. Try the code using Visual Studio Code (VS Code).
